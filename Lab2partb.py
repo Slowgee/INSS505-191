@@ -15,7 +15,6 @@ number1=13
 number2=12
 number3=11
 number4=10
-<<<<<<< HEAD
 output1=(number1+number2+number3+number4)
 output2=(number1*number2*number3*number4)
 output3=(number4-number3-number2-number1)
@@ -29,8 +28,6 @@ number1=13
 number2=12
 number3=11
 number4=10
-=======
->>>>>>> origin/master
 output1=(number1+number2)
 output2=(number3*number4)
 output3=(number1-number2)
