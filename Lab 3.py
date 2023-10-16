@@ -1,0 +1,35 @@
+number1=input('Enter number 1')
+number2=input('Enter number 2')
+print(number1,number2)
+sum=int(number1)+int(number2)
+print(sum)
+difference=int(number1)-int(number2)
+multiplication=int(number1)*int(number2)
+division=int(number1)/int(number2)
+print(difference,multiplication,division)
+number1=input('Enter number 1')
+number2=input('Enter number 2')
+number3=input('Enter number 3')
+sum=int(number1)+int(number2)+int(number3)
+difference=int(number1)-int(number2)-int(number3)
+multiplication=int(number1)*int(number2)*int(number3)
+division=int(number1)/int(number2)/int(number3)
+print(sum,difference,multiplication,division)
+#Import math Library
+import math
+print(math.pow(9,3))
+print(math.pi)
+print(math.sin(8))
+print(math.log(5,6))
+print(math.sqrt(9))
+print(math.lgamma(10))
+sequence=(4,4,4)
+print(math.prod(sequence))
+print(math.tan(25))
+print(math.perm(35))
+print(math.remainder(24,5))
+print(math.log10(8))
+
+
+
+
