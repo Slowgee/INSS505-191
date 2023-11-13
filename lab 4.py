@@ -53,7 +53,3 @@ if length > 0 and width > 0:
     print("Area of the rectangle", area_rectangle)
 else:
     print("Input parameters are not greater than 0. Cannot compute the area of the requested polygon.")
-
-
-
-
